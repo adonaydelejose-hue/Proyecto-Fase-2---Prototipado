@@ -1,6 +1,3 @@
-# AIVAS – GUI Final con mejoras de validación
-# Corre en Thonny sin librerías externas.
-
 import sqlite3, os
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
